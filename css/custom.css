@@ -1,0 +1,11 @@
+/* 文章正文 */
+#post .post-content {
+    font-size: 18px;
+    line-height: 1.9;
+}
+
+/* 首页文章卡片摘要 */
+#recent-posts .recent-post-item .content {
+    font-size: 16px;
+    line-height: 1.8;
+}
